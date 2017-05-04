@@ -1,0 +1,533 @@
+.head ul li{
+	display: inline;
+	float:left;
+	padding-right:20px;
+	text-align:center;
+	padding-left:22px;
+}
+.head ul li a:hover{
+	color:black;
+}
+.head{
+	
+	margin: 0 auto;
+	width: 90%;
+	z-index: 1;
+	background-color: white;
+	font-family: 'Abril Fatface', cursive;	
+}
+
+.head h1{
+	font-weight: bold;
+	margin-top: 20px;
+	font-size:60px;
+	text-shadow: 10px 20px 20px grey;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+
+}
+.navsection{
+
+	padding-bottom: 20px;
+	padding-top: 20px;
+
+}
+.navsection h1{
+	margin-bottom: 20px;
+}
+.card{
+	border-width: solid;
+	border-color: black;
+	padding: 5px;
+}
+
+
+.carouselslide{
+	margin-top: 50px;
+	font-color:black;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.carouselslide img{
+	margin: auto;
+	width: 40%;	
+}
+.carouselslide p{
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
+
+
+.lgimg{
+	margin-top: 20px;
+	font-family: 'Abril Fatface', cursive;
+	
+}
+.lgimg a{
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+}
+.lgimg figure,a{
+	margin-left: 40%;
+}
+
+
+.para{
+	margin-top: 20px;
+	font-family: 'Abril Fatface', cursive;
+	text-align: justify;
+}
+.para p{
+	font-family: 'Dosis', sans-serif;
+}
+.para h3{
+	font-size: 25px;
+	text-transform: uppercase;
+	text-align: center;
+	
+}
+.para .p1,.p2,.p3{
+	font-size: 20px;
+	padding-right: 3px;
+}
+.p1 img{
+	width: 360px;
+	margin-left: -145px;
+}
+.p2 img{
+	width: 350px;
+	margin-left: -140px;
+}
+.p3 img{
+	width: 350px;
+	margin-left: -140px;
+}
+.para .card{
+	height: 600px;
+}
+
+
+
+
+.centerimg{
+	margin-top: 20px;
+	padding-top: 20px;
+	margin: auto;
+}
+.centerimg img{
+		opacity: 0.3;
+		
+}
+.centerimg img:hover{
+	opacity:1;	
+	
+}
+
+.main{
+	font-family: 'Abril Fatface', cursive;
+}
+.main img{
+	width: 250px;
+	height: 325px;
+	margin: auto;
+}
+.main h3{
+	font-size: 25px;
+	text-align: center;
+}
+.sub{
+	font-family: 'Abril Fatface', cursive;
+}
+
+.sub h3{
+	font-size: 25px;
+	text-align: center;
+}
+.sub p{
+	font-size: 20px;
+	text-align: justify;
+	font-family: 'Dosis', sans-serif;
+}
+#btn{
+	margin-left: 150px;
+}
+
+.curl img{
+	margin-top: 20px;
+	width: 50%;
+	height: 50%;
+	margin-left: 20%;
+}
+
+.cardlink{
+	margin-top: 20px;
+	font-family: 'Abril Fatface', cursive;
+}
+.cardlink  img{
+	width:100%;
+}
+.cardlink h3{
+	font-size: 25px;
+	text-align: center;
+}
+.cardlink p{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+}
+
+.video{
+	margin: 20px;
+	
+	padding-top: 10px;
+}
+.video p{
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+}
+
+.coloring{
+	margin-top: 20px;
+		text-align: justify;
+
+}
+.coloring p{
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+	text-align: justify;
+	margin-top: 10px;
+}
+.color{
+	padding-left:10px;
+	padding-right:10px;
+}
+
+
+.coloring h2{
+	font-weight: bold;
+}
+
+.a1{
+	margin-bottom: 10px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+
+}
+.a2{
+	margin-bottom: 10px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+}
+.a3{
+	margin-bottom: 10px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+}
+.al .a2 .a3 label{
+	
+	margin-left: 20px;
+}
+.c2 p{
+	font-size: 20px;
+	margin-left: 20px;
+	font-family: 'Dosis', sans-serif;
+}
+.c1{
+	height: 650px;
+
+
+}
+.c2{
+	height: 650px;
+}
+.c2 label{
+	margin-left: 20px;
+}
+.coloring h2{
+	margin-top: 20px;
+}
+.colorpara p{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	font-family: 'Dosis', sans-serif;
+}
+.colorbox{
+	margin-bottom: 20px;
+}
+.colorbox h2{
+	margin-bottom: 20px;
+}
+.box{
+	width:50px;
+	height:50px;
+}
+ .box{
+ 	padding-right: 20px;
+ 	padding-top: 20px;
+ }
+
+.burgundy{
+	background:#660033;
+	margin: auto;
+}
+.black{
+	background:black;
+	margin: auto;
+}
+.darkbrown{
+	background:#4d0000;
+	margin: auto;
+}
+.lightbrown{
+	background:#990000;
+	margin: auto;
+}
+.naturalgrey{
+	background:#6b6b47;
+	margin: auto;
+}
+.darkgrey{
+	background:#a3a375;
+	margin: auto;
+}
+.charamel{
+	background:#ffc34d;
+	margin: auto;
+}
+.lightblue{
+	background:#0000cc;
+	margin: auto;
+}
+.darkblue{
+	background:#00004d;
+	margin: auto;
+}
+.pink{
+	background:#ff0066;
+	margin: auto;
+}
+.green{
+	background:green;
+	margin: auto;
+}
+.yellow{
+	background:yellow;
+	margin: auto;
+}
+.coloring{
+	font-family: 'Abril Fatface', cursive;
+}
+.coloring{
+	padding-right: 10px;
+}
+
+.coloring h2{
+	text-align: center;
+}
+.formsec{
+	margin-top: 20px;
+}
+
+.f1{
+	
+	height: 350px;
+}
+.f2{
+	
+	height: 350px;
+}
+.f3{
+	
+	height: 350px;
+}
+.f4{
+	
+	height: 350px;
+}
+.formsec  p{
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+	text-align: justify;
+	margin-top: 10px;
+}
+.formsec h2{
+	font-weight: bold;
+}
+
+#bt{
+	margin: auto;
+	text-align: center;
+}
+.hstyle{
+	margin-top: 20px;
+}
+.home h3{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+	
+}
+.hstylefoot{
+	margin-top: 20px;
+}
+.about{
+	margin-top: 200px;
+
+}
+.about h3{
+	text-transform: uppercase;
+	text-transform: bold;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+.about p{
+	text-align: justify;
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+}
+.about b{
+	font-size: 25px;
+}
+.home a{
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+	font-family: 'Dosis', sans-serif;
+}
+
+/**.article{
+	margin-top: 200px;
+}
+.article h3{
+	text-transform: uppercase;
+	text-transform: bold;
+	text-align: center;
+	font-size: 30px;
+}
+.article span{
+	text-transform: uppercase;
+	text-transform: bold;
+	text-align: center;
+	font-size: 20px;
+}
+.article a,li{
+	text-decoration:none;
+	list-style: none;
+	font-size: 20px;
+}
+.sidebar{
+	margin-top: 200px;
+}
+.content h3{
+	text-transform: uppercase;
+	text-transform: bold;
+	text-align: center;
+	font-size: 30px;
+}
+.content p{
+	text-align: justify;
+	font-size: 20px;
+}
+.sidebar  h3,span{
+	text-transform: uppercase;
+	text-transform: bold;
+	text-align: center;
+	font-size: 30px;
+}
+.sidebar p{
+	text-align: justify;
+	font-size: 20px;
+}
+.sidebar li{
+	text-decoration:none;
+	list-style: none;
+}
+**/
+.footer {
+	
+	background-size: 940px 200px;
+	background-color: lightgrey;
+	
+}
+
+.footer > div {
+	margin: 0 auto;
+	padding: 30px 0 28px;
+	overflow: hidden;
+	text-align: center;
+	width: 100%;
+	margin:auto;
+	}
+
+.footer div p {
+	font-family: 'Abril Fatface', cursive;
+	display: inline-block;
+	font-size: 20px;
+	letter-spacing: 0.05em;
+	margin: 0;
+	padding: 27px 0 0;
+	text-align: center;
+}
+
+.footer div  .connect{
+	
+	float: right;
+	height: 18px;
+	margin: 0 20px 0 150px;
+	padding: 22px 20px;
+	overflow: hidden;
+	width: 200px;
+}
+
+
+.footer div .connect a {
+	background: url(../images/icons.png) no-repeat;
+	display: block;
+	float: left;
+	height: 20px;
+	margin: 0 8px;
+	padding: 0;
+	text-indent: -99999px;
+	width: 20px;
+}
+
+.footer div .connect #twitter {
+	background-position: 0 -32px;
+}
+
+.footer div .connect #twitter:hover {
+	background-position: -25px -32px;
+}
+
+.footer div .connect #facebook {
+	background-position: 0 -57px;
+}
+
+.footer div .connect #facebook:hover {
+	background-position: -25px -57px;
+}
+
+.footer div .connect #googleplus {
+	background-position: 0 -82px;
+}
+
+.footer div .connect #googleplus:hover {
+	background-position: -25px -82px;
+}
+
+.footer div .connect #pinterest {
+	background-position: 0 -107px;
+}
+
+.footer div .connect #pinterest:hover {
+	background-position: -25px -107px;
+}
+
